@@ -4,4 +4,4 @@
 training github
 
 
-Note 1 : Ceci est un essay
+Note 1 : Ceci est un essai
